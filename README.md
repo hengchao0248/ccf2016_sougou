@@ -1,11 +1,12 @@
 ## 2016CCF [大数据精准营销中搜狗用户画像挖掘](http://www.wid.org.cn/data/science/player/competition/detail/description/239)  final winner solution
 
-### 大连理工大学信息检索实验室
+###李恒超、李裕礞、王安然、钱凌飞、任璐 
+###大连理工大学信息检索实验室
 
 重现实验
-=======
+========
 把原始数据　user_tag_query.10W.TRAIN　和　user_tag_query.10W.TEST 放在`./data/`目录下，然后运行`run.sh`
-最后能生成　tfidf_dm_dbow_20W.csv,该结果B榜成绩会在**0.724**左右。
+最后能生成　tfidf_dm_dbow_20W.csv,为方便大家阅读，代码已整理成最简洁的形式，该结果B榜成绩会在**0.724**左右。
 建议在**ubuntu**环境下运行，windows环境下，也可以运行run_cv.ipynb
 
 数据下载
@@ -32,3 +33,6 @@ https://pan.baidu.com/s/1bpGIfxX
 其他
 =======
 如果觉得不错的话，欢迎大家点击右上角的star和fork,谢谢！
+
+![](docs/队旗.jpg)
+
