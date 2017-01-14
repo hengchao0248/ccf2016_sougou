@@ -28,3 +28,7 @@ https://pan.baidu.com/s/1bpGIfxX
 硬件
 =======
 本代码是在8core,i7CPU,8gb RAM 的电脑上开发的.总共运行时间大概需要5个小时
+
+其他
+=======
+如果觉得不错的话，欢迎大家点击右上角的star和fork,谢谢！
