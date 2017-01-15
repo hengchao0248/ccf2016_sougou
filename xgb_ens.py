@@ -15,7 +15,7 @@ df_lr = pd.read_csv(cfg.data_path + 'tfidf_stack_20W.csv')
 df_dm = pd.read_csv(cfg.data_path + 'dmd2v_stack_20W.csv')
 df_dbow = pd.read_csv(cfg.data_path + 'dbowd2v_stack_20W.csv')
 
-df_lb = pd.read_csv(cfg.data_path + 'all.csv',usecols=['Id','Education','age','gender'],nrows=200000)
+df_lb = pd.read_csv(cfg.data_path + 'all_v2.csv',usecols=['Id','Education','age','gender'],nrows=200000)
 ys = {}
 for lb in ['Education','age','gender']:
     ys[lb] = np.array(df_lb[lb])

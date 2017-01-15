@@ -21,7 +21,7 @@ def myAcc(y_true,y_pred):
     return np.mean(y_true == y_pred)
 
 #-----------------------load dataset----------------------
-df_all = pd.read_csv(cfg.data_path + 'all.csv',encoding='utf8',usecols=['Id','Education','age','gender'],nrows=200000)
+df_all = pd.read_csv(cfg.data_path + 'all_v2.csv',encoding='utf8',usecols=['Id','Education','age','gender'],nrows=200000)
 ys = {}
 for label in ['Education','age','gender']:
     ys[label] = np.array(df_all[label])
