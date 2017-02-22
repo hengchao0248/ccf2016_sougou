@@ -38,5 +38,6 @@ https://pan.baidu.com/s/1bpGIfxX
 
 [2nd Place Solution for SMP CUP 2016](https://github.com/liyumeng/SmpCup2016)
 
+[1st Place Solution for【2016CCF大数据竞赛 客户画像赛题】](https://github.com/feidapeng/2016CCF_StateGrid_UserProfile)
 ![](data/队旗.jpg)
 
