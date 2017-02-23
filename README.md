@@ -34,10 +34,15 @@ https://pan.baidu.com/s/1bpGIfxX
 =======
 如果觉得不错的话，欢迎大家点击右上角的star和fork,谢谢！
 
+[算法说明文档下载](docs/搜狗用户画像竞赛_算法说明文档.docx)
+
 我们参加的其他竞赛：
 
 [2nd Place Solution for SMP CUP 2016](https://github.com/liyumeng/SmpCup2016)
 
-[1st Place Solution for【2016CCF大数据竞赛 客户画像赛题】](https://github.com/feidapeng/2016CCF_StateGrid_UserProfile)
+[1st Place Solution for 2016CCF大数据竞赛客户画像赛题(用户画像)](https://github.com/feidapeng/2016CCF_StateGrid_UserProfile)
+
+[Tsinghua Data Science Winter School 2017 Link Prediction](https://github.com/liyumeng/LinkPrediction)
+
 ![](data/队旗.jpg)
 
